@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "name": "Alec Bedzir",
+            "email": "alec.bedzir@vaimo.com"
+        }
+    ],
+    "require": {
+        "magento/core": "1.9.0.1",
+        "magneto/debug": "*",
+		"limesoda/limesoda_sample-data-generator": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/LimeSoda/LimeSoda_SampleDataGenerator"
+		},
+        {
+            "type": "composer",
+            "url": "http://packages.firegento.com"
+        }
+    ],
+    "extra":{
+        "magento-root-dir": "htdocs/",
+        "magento-deploystrategy": "copy"
+        },
+    "minimum-stability": "dev"
+}
