@@ -1,5 +1,5 @@
-composer_plus_magento_devhub_2014_Jul
-=====================================
+Composer + Magento
+==================
 
 Files related to the report on Magento DevHub from 16 Jul, 2014
 
