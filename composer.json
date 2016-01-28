@@ -7,8 +7,10 @@
     ],
     "require": {
         "magento/core": "1.9.0.1",
-        "madalinoprea/magneto-debug": "*",
-	"limesoda/limesoda_sample-data-generator": "dev-master"
+        "limesoda/limesoda_sample-data-generator": "dev-master"
+    },
+    "require-dev": {
+        "madalinoprea/magneto-debug": "*"
     },
     "repositories": [
         {
