@@ -2,13 +2,13 @@
     "authors": [
         {
             "name": "Alec Bedzir",
-            "email": "alec.bedzir@vaimo.com"
+            "email": "alec.jack@gmail.com"
         }
     ],
     "require": {
         "magento/core": "1.9.0.1",
-        "magneto/debug": "*",
-		"limesoda/limesoda_sample-data-generator": "dev-master"
+        "madalinoprea/magneto-debug": "*",
+	"limesoda/limesoda_sample-data-generator": "dev-master"
     },
     "repositories": [
         {
